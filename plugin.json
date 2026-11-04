@@ -1,0 +1,48 @@
+{
+  "name": "siyuan-plugin-LLM-icons",
+  "author": "unmime",
+  "url": "https://github.com/unmime/siyuan-plugin-LLM-icons",
+  "version": "0.1.0",
+  "minAppVersion": "3.5.0",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window",
+    "browser-desktop",
+    "mobile",
+    "browser-mobile"
+  ],
+  "disabledInPublish": true,
+  "displayName": {
+    "default": "LLM Icons",
+    "zh_CN": "AI 品牌图标",
+    "zh-CN": "AI 品牌图标"
+  },
+  "description": {
+    "default": "Search 357 AI / LLM brand logos, insert one into your document or use it as the document icon. Built into the emoji panel too.",
+    "zh_CN": "搜索 357 个 AI / LLM 品牌图标，插进正文或设为文档图标，也内置在表情面板里。支持中文别名。",
+    "zh-CN": "搜索 357 个 AI / LLM 品牌图标，插进正文或设为文档图标，也内置在表情面板里。支持中文别名。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md",
+    "zh-CN": "README_zh_CN.md"
+  },
+  "icon": "icon.png",
+  "preview": "preview.png",
+  "keywords": [
+    "icon",
+    "logo",
+    "ai",
+    "llm",
+    "brand",
+    "openai",
+    "claude",
+    "图标",
+    "标志",
+    "人工智能",
+    "大模型"
+  ]
+}

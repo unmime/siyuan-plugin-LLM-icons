@@ -1,0 +1,16 @@
+{
+  "name": "siyuan-plugin-LLM-icons",
+  "private": true,
+  "version": "0.1.0",
+  "description": "AI / LLM brand icons for SiYuan",
+  "type": "module",
+  "scripts": {
+    "build:index": "node scripts/build-index.mjs",
+    "test": "node scripts/smoke-test.mjs && node scripts/ui-test.mjs",
+    "package": "node scripts/package.mjs",
+    "build": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^30.1.3"
+  }
+}
